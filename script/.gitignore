@@ -1,0 +1,25 @@
+# Data files - too large for GitHub
+*.nc
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+nc/
+shp/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
